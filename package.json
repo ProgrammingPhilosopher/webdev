@@ -1,0 +1,24 @@
+{
+  "name": "webdev_sample",
+  "version": "0.1.0",
+  "description": "At the end of the day, carpe diem",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProgrammingPhilosopher/webdev.git"
+  },
+  "keywords": [
+    "apple",
+    "shoe",
+    "tesla"
+  ],
+  "author": "Markus Hou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ProgrammingPhilosopher/webdev/issues"
+  },
+  "homepage": "https://github.com/ProgrammingPhilosopher/webdev#readme"
+}
